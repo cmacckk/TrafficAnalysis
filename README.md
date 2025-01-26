@@ -4,18 +4,6 @@
 
 分析处理流量，可以快速筛选流量并解密蚁剑流量。
 
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
-
 <p align="center">
   <a href="https://github.com/cmacckk/TrafficAnalysis">
     <img src="img/logo.png" alt="Logo" width="80" height="80">
